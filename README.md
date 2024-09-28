@@ -29,7 +29,7 @@ This project performs data cleaning and analysis on a fictional music store's sa
 
 
 
-* Key Analysis Performed
+### Key Analysis Performed
   
 - Top Customers by Total Purchases: Identified top customers based on their total purchases, segmented by their value (Low, Medium, High, VIP) and purchase frequency (Rare, Occasional, Frequent, Loyal).
 
