@@ -24,7 +24,7 @@ This project performs data cleaning and analysis on a fictional music store's sa
 
 * Removed the BillingState column.
   
-- Filled missing postal codes with "No postal."
+* Filled missing postal codes with "No postal."
 
 
 
